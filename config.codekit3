@@ -177,6 +177,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/deploy\/images\/header\/header_logo.png" : {
+      "ft" : 32768,
+      "iS" : 14224,
+      "oA" : 0,
+      "oAP" : "\/deploy\/images\/header\/header_logo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/images\/hero\/hero-big.jpg" : {
       "ft" : 16384,
       "iS" : 90900,
@@ -286,6 +299,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/content\/pics.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/search.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/search.html",
       "oF" : 0
     },
     "\/dev\/global\/footer.kit" : {
